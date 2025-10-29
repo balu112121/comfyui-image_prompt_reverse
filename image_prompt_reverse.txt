@@ -1,0 +1,1 @@
+ComfyUI/custom_nodes/image_prompt_reverse/
